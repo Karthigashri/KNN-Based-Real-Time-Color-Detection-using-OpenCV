@@ -1,6 +1,6 @@
 <h1 align="center" id="title">🎨 KNN-Based-Real-Time-Color-Detection-using-OpenCV</h1>
 
-<p align="center"><img src="D:\colordetector\assets\profile.png" alt="project-image"></p>
+<p align="center"><img src="assets\profile.png" alt="project-image"></p>
 
 <p id="description">This project implements a real-time color detection system using the K-Nearest Neighbors (KNN) machine learning algorithm. It captures pixel RGB values from webcam or uploaded images and predicts the closest matching color name using Euclidean distance. The project demonstrates practical application of supervised learning in computer vision.</p>
 
@@ -11,7 +11,7 @@
 </p>
 
 <h2>📸 Demo</h2>
-<p align="center"><img src="D:\colordetector\assets\demo.png" alt="Demo Screenshot"></p>
+<p align="center"><img src="assets\demo.png" alt="Demo Screenshot"></p>
 
 <h2>⚙️ System Workflow</h2>
 <p>To understand how the application processes inputs and predicts colors, refer to the workflow below:</p>
